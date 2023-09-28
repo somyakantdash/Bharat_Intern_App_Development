@@ -34,9 +34,4 @@ The Temperature Converter app, created using Android Studio, is a user-friendly 
 2 - **Open Folder in IDE:**
   
 3 - **Run the App:**
-4 - **Git Ignore Configuration:**
-   - Create a .gitignore file.
-   -Add config.js to .gitignore to keep it out of version control
-```javascript
-config.js
-```
+
