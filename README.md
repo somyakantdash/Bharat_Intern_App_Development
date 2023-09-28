@@ -19,6 +19,7 @@ A calculator app developed using Android Studio is a user-friendly, mobile appli
   
 3 - **Run the App:**
 
+
 ## Task - 2 Temperature Converter Application
 The Temperature Converter app, created using Android Studio, is a user-friendly tool designed to convert temperatures between different units, such as Celsius, Fahrenheit. This app provides a seamless and intuitive interface, allowing users to easily input a temperature value in one unit and instantly see the equivalent values in other units, making it a practical and efficient solution for temperature conversions on Android devices.
 
