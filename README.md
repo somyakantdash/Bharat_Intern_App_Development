@@ -2,8 +2,7 @@
 
 # Bharat-Intern-Tasks
 
-## Task - 1
-Calculator Application
+## Task - 1  Calculator Application
 A calculator app developed using Android Studio is a user-friendly, mobile application designed to perform mathematical calculations on Android devices. It provides a visually appealing and intuitive interface with features like a numeric keypad and standard arithmetic operations. This app showcases the capabilities of Android Studio for creating efficient and practical tools for users to solve mathematical problems on their smartphones or tablets.
 
 ### Features
@@ -20,8 +19,7 @@ A calculator app developed using Android Studio is a user-friendly, mobile appli
   
 3 - **Run the App:**
 
-## Task - 2
-Temperature Converter Application
+## Task - 2 Temperature Converter Application
 The Temperature Converter app, created using Android Studio, is a user-friendly tool designed to convert temperatures between different units, such as Celsius, Fahrenheit. This app provides a seamless and intuitive interface, allowing users to easily input a temperature value in one unit and instantly see the equivalent values in other units, making it a practical and efficient solution for temperature conversions on Android devices.
 
 ### Features
